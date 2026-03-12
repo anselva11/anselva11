@@ -6,10 +6,10 @@
 
 <!-- Typing Animation -->
 
-<h2 align="center">Hi , I'm Ansel 🦖 </h2>
+<h1 align="center">Hi , I'm Ansel 🦖 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Startup+Builder;Tech+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Software+Engineer;Tech+Enthusiast"/>
 </p>
 
 ---
@@ -31,7 +31,8 @@
 <td width="45%" align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJrNHgxZzh1MmV1eHBwdXlwZm45OTV6am1wdmdnYWhvb3F3ZjBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="320"/>
-</p>
+
+
 </td>
 </tr>
 </table>
