@@ -1,26 +1,29 @@
-## Hey 👋, Hansel Varian!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Hansel%20Varian&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=anselva11">
+    <img src="https://komarev.com/ghpvc/?username=anselva11&label=Profile%20views&color=00FFFF&style=flat-square" alt="anselva11's profile views" />
+  </a>
+</p>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<div align="center">
   
-### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/anselva11">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anselva11&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="anselva11's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=anselva11&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="anselva11's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=anselva11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hansel Varian's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=anselva11&theme=tokyonight&radius=10" alt="anselva11's Activity Graph" />
+</p>
+
 
 <br>
 
@@ -41,13 +44,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/hansel-varian-a88858303/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:anselvariann@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://anselva11.github.io/Web-Portofolio-/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-</a>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
