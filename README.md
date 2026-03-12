@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ansel%20Varian&fontSize=40&fontColor=ffffff"/>
+<img src="https://www.shutterstock.com/image-photo/mountain-landscape-clear-blue-sky-600nw-2582460863.jpg"/>
 </p>
 
 <!-- Typing Animation -->
