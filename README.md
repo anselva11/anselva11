@@ -1,64 +1,37 @@
-<h1 align="center">Hi there, I'm Hansel Varian👋</h1>
+# Hi 👋, I'm YOUR_NAME
+
+### 🚀 Passionate Developer | Problem Solver | Tech Enthusiast
 
 <p align="center">
-  <a href="https://yourportfolio.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/yourname">LinkedIn</a> •
-  <a href="https://twitter.com/yourname">Twitter</a> •
-  <a href="https://yourwebsite.com">Website</a> •
-  <a href="mailto:youremail@email.com">Contact Me</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="60%">
+## 🌐 Connect with me
 
-## 👨‍💻 About Me
-
-💻 Software Engineer passionate about building scalable applications
-🚀 Currently learning **Cloud Architecture & System Design**
-🧠 Interested in **Backend Development, APIs, and DevOps**
-🌱 Always exploring new technologies
-
-📫 How to reach me:
-
-* 🌐 Website: https://yourwebsite.com
-* 💼 LinkedIn: https://linkedin.com/in/yourname
-* 📧 Email: [your@email.com](mailto:your@email.com)
-
-</td>
-
-<td width="40%">
-
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQweHJ0aG1kd3EwYjExMTFobXdvYndzbWlsdmRnNTFtOWlhZDc2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="100%">
-
-</td>
-</tr>
-</table>
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://instagram.com/YOUR_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+<a href="https://twitter.com/YOUR_USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+<a href="mailto:your@email.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge\&logo=go)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,tailwind,bootstrap" />
 
-### Frameworks
+<img src="https://skillicons.dev/icons?i=python,java,cpp,php,go,rust" />
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge\&logo=django)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
 
-### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visual-studio-code)
+</p>
 
 ---
 
@@ -66,18 +39,34 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Top Languages
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -85,13 +74,21 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
 </p>
 
 ---
 
-# 👀 Visitors
+# ☕ Support Me
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOURUSERNAME\&color=blue)
+<p align="center">
+<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
+</a>
+</p>
 
-⭐ If you like my projects, give them a star!
+---
+
+<p align="center">
+💡 *"Code. Create. Innovate."*
+</p>
