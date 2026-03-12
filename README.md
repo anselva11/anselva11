@@ -1,70 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ansel 👋
 
-# 👋 Hi, I'm Ansel Varian
+I'm a software engineer passionate about building modern web applications, SaaS products, and exploring new technologies.
 
-Welcome to my GitHub profile!  
-I'm passionate about building modern digital products and learning new technologies in software development.
+## 🚀 Currently Working On
 
----
+* Building web applications
+* Learning full stack development
+* Developing startup ideas and SaaS platforms
 
-## 👨‍💻 Who Am I?
+## 🛠️ Tools I Use
 
-I'm a **Software Engineer & Tech Enthusiast** from Indonesia 🇮🇩.  
-I focus on developing **web applications, SaaS platforms, and modern digital solutions**.
+* React.js
+* Tailwind CSS
+* JavaScript
+* Node.js
+* Git & GitHub
+* Visual Studio Code
 
-Currently interested in:
-- Web Development
-- Startup Development
-- SaaS Platforms
----
+## 📫 Reach Me
 
-## 🚀 What I'm Currently Working On
-
-- 🌐 Building modern **Web Applications**
-- 🧠 Developing **SaaS platforms**
-- 🚀 Working on **startup ideas and digital products**
-- 💻 Improving my **Full Stack Development skills**
-- 🤖 Exploring **robotics and automation**
+* GitHub: https://github.com/anselva11
+* LinkedIn: https://www.linkedin.com/in/hansel-varian-a88858303/
 
 ---
 
-## 🛠️ Tools & Technologies I Use
-
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- Framer Motion
-- HTML5 / CSS3 / JavaScript
-
-### Backend
-- Node.js
-- Express.js
-- REST API
-
-### Development Tools
-- Git & GitHub
-- Visual Studio Code
-- Linux / Terminal
-- Docker (Learning)
-
----
-
-## 📌 Featured Projects
-
-- 🛒 **E-Commerce Web Platform**
-- 📊 **Startup Investment Platform**
-- 🌐 **Personal Portfolio Website**
-- 📱 **SaaS Web Applications**
-
----
-
-## 📫 How To Reach Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/hansel-varian-a88858303/
-- 💻 GitHub: https://github.com/anselva11
-- 📧 Email: anselvariann@gmail.com
-
----
-
-⭐ If you like my projects, feel free to **star the repositories**!
+⭐ Always learning, always building.
