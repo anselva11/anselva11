@@ -3,7 +3,7 @@
 ### 🚀 Passionate Developer | Problem Solver | Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Tech+Enthusiast" />
 </p>
 
 ---
