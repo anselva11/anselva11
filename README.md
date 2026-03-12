@@ -16,7 +16,7 @@
 
 <!-- About + GIF -->
 
-<table>
+
 <tr>
 <td width="55%">
 
@@ -28,7 +28,7 @@
 
 📈 Skills: JavaScript, React, Git, GitHub
 
-📫 Reach me: [your@email.com](mailto:your@email.com)
+📫 Reach me: anselvariann@gmail.com
 
 📍 Location: Indonesia
 
@@ -40,7 +40,7 @@
 
 </td>
 </tr>
-</table>
+
 
 ---
 
