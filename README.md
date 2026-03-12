@@ -15,31 +15,31 @@
 ---
 
 <!-- About + GIF -->
+<div align="center">
 
 
-<tr>
-<td width="55%">
+🌱 Currently building and improving myself  
 
-🌱 Currently building and improving myself
+⚡ About me: **Determined**  
 
-⚡ About me: Determined
+💎 Value clarity, ownership, and continuous improvement  
 
-💎 Value clarity, ownership, and continuous improvement
+📈 Skills: **JavaScript • React • Git • GitHub**
 
-📈 Skills: JavaScript, React, Git, GitHub
+📬 Reach me: **anselvariann@gmail.com**
 
-📫 Reach me: anselvariann@gmail.com
+📍 Location: **Indonesia**
 
-📍 Location: Indonesia
+</div>
 
-</td>
+---
 
-<td width="45%">
+<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJrNHgxZzh1MmV1eHBwdXlwZm45OTV6am1wdmdnYWhvb3F3ZjBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 
-</td>
-</tr>
+</div>
+
 
 
 ---
