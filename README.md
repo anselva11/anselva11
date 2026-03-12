@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 
-<h1 align="center">Hi 👋, I'm Ansel</h1>
+<h2 align="center">Hi , I'm Ansel 🦖 </h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Startup+Builder;Tech+Enthusiast"/>
@@ -15,8 +15,6 @@
 ---
 
 <!-- About + GIF -->
-<h1 align="center">Hi there, I'm Ansel 👋</h1>
-
 <table>
 <tr>
 <td width="55%" valign="top">
