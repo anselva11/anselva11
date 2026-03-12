@@ -18,6 +18,7 @@
 <table>
 <tr>
 <td width="55%" valign="top">
+<p align="center">
 
 - 🌱 Currently building and improving myself  
 - ⚡ About me: Determined  
@@ -30,7 +31,7 @@
 <td width="45%" align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJrNHgxZzh1MmV1eHBwdXlwZm45OTV6am1wdmdnYWhvb3F3ZjBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="320"/>
-
+</p>
 </td>
 </tr>
 </table>
