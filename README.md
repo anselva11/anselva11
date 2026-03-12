@@ -1,21 +1,42 @@
-<h1 align="center">Hi there, I'm Ansel 👋</h1>
+<!-- Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ansel%20Varian&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- Typing Animation -->
+
+<h1 align="center">Hi 👋, I'm Ansel</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Startup+Builder;Tech+Enthusiast"/>
+</p>
+
+---
+
+<!-- About + GIF -->
 
 <table>
 <tr>
-<td>
+<td width="55%">
 
-🌱 Currently building and improving myself  
-⚡ About me: Determined  
-💎 Value clarity, ownership, and continuous improvement  
-📈 Skills: JavaScript, React, Git, GitHub  
-📫 Reach me: your@email.com  
-📍 Location: Indonesia  
+🌱 Currently building and improving myself
+
+⚡ About me: Determined
+
+💎 Value clarity, ownership, and continuous improvement
+
+📈 Skills: JavaScript, React, Git, GitHub
+
+📫 Reach me: [your@email.com](mailto:your@email.com)
+
+📍 Location: Indonesia
 
 </td>
 
-<td>
+<td width="45%">
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJrNHgxZzh1MmV1eHBwdXlwZm45OTV6am1wdmdnYWhvb3F3ZjBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif)" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJrNHgxZzh1MmV1eHBwdXlwZm45OTV6am1wdmdnYWhvb3F3ZjBnbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" width="320"/>
 
 </td>
 </tr>
@@ -25,35 +46,19 @@
 
 ## ⚡ Tech Stack
 
-### Languages
-
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge\&logo=python)
-![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge\&logo=css3)
-
-### Frameworks
-
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge\&logo=tailwindcss)
 ![NodeJS](https://img.shields.io/badge/nodejs-green?style=for-the-badge\&logo=node.js)
-
-### Tools
-
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge\&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/git-orange?style=for-the-badge\&logo=git)
-![VS Code](https://img.shields.io/badge/vscode-blue?style=for-the-badge\&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge\&logo=linux)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -74,12 +79,28 @@
 
 ---
 
-## 📫 Contact Me
+## 🐍 Contribution Snake
 
-* LinkedIn: https://linkedin.com/in/hansel-varian
-* GitHub: https://github.com/anselva11
-* Email: anselvariann@gmail.com
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-⭐ Always learning. Always building.
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ Always learning, always building.
