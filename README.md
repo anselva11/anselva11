@@ -1,21 +1,25 @@
 <h1 align="center">Hi there, I'm Ansel 👋</h1>
 
-<p align="center">
-<a href="https://github.com/anselva11">GitHub</a> •
-<a href="https://linkedin.com/in/hansel-varian">LinkedIn</a> •
-<a href="#">Portfolio</a> •
-<a href="#">Website</a> •
-<a href="#">Contact</a>
-</p>
+<table>
+<tr>
+<td>
 
----
+🌱 Currently building and improving myself  
+⚡ About me: Determined  
+💎 Value clarity, ownership, and continuous improvement  
+📈 Skills: JavaScript, React, Git, GitHub  
+📫 Reach me: your@email.com  
+📍 Location: Indonesia  
 
-## 🧑‍💻 About Me
+</td>
 
-✨ Software Engineer
-🚀 Building Web Applications and SaaS Platforms
-🌱 Currently learning Full Stack Development
-🤖 Interested in Robotics and Automation
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
