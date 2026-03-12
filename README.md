@@ -1,8 +1,8 @@
 <!-- Banner -->
-
 <p align="center">
-<img src="https://www.shutterstock.com/image-photo/mountain-landscape-clear-blue-sky-600nw-2582460863.jpg"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=250&section=header&text=Hi%20I'm%20Ansel&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
+
 
 <!-- Typing Animation -->
 
