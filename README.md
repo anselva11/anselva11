@@ -19,13 +19,12 @@
 <tr>
 <td width="55%" valign="top">
 
-🌱 Currently building and improving myself
-⚡ About me: Determined
-💎 Value clarity, ownership, and continuous improvement
-📈 Skills: JavaScript, React, Git, GitHub
-📫 Reach me at: [your@email.com](mailto:your@email.com)
-📍 Location: Indonesia
-
+- 🌱 Currently building and improving myself  
+- ⚡ About me: Determined  
+- 💎 Value clarity, ownership, and continuous improvement  
+- 📈 Skills: JavaScript, React, Git, GitHub  
+- 📫 Reach me at: your@email.com  
+- 📍 Location: Indonesia
 </td>
 
 <td width="45%" align="center">
